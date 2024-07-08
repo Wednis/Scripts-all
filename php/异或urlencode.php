@@ -1,4 +1,5 @@
-#<?php 
+//普通情况
+<?php 
 $func='system';
 $arg='("ls")';
 $a=urlencode(~$func);
